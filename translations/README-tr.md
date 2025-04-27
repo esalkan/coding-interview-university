@@ -1,7 +1,7 @@
 # Kodlama Mülakatı Üniversitesi
 
 > Aslında bunu yazılım mühendisi olabilmek için kısa bir yapılacaklar listesi olarak hazırladım,
-> ama bugün gördüğünüz büyük listeye dönüştü. Bu çalışma planını tamamladıktan sonra, [Amazon tarafından
+> ama bugün gördüğünüz bu büyük listeye dönüştü. Bu çalışma planını tamamladıktan sonra, [Amazon tarafından
 > Yazılım Geliştirme Mühendisi olarak işe alındım.](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > Muhtemelen yaptığım kadar çok çalışmanıza gerek kalmayacaktır. Her neyse, ihtiyaç duyabileceğiniz her şey burada.
 >
@@ -52,10 +52,10 @@
 <div align="center">
 	<hr />
     <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+        <a href="https://github.com/sponsors/jwasham"><strong>Sponsor olun</strong> ve Kodlama Mülakat Üniversitesi'ni destekleyin!</a>
     </p>
     <p>
-        <strong>Special thanks to:</strong>
+        <strong>Özel Teşekkürler:</strong>
     </p>
     <p>
         <a href="https://oss.capital/">
@@ -75,11 +75,11 @@
             </div>
             <div>
                 <p>
-                    <strong>Dev environments built for the cloud</strong>
+                    <strong>Bulut için tasarlanmış geliştirme ortamları</strong>
                 </p>
             </div>
             <div>
-                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+                <sup>GitLab, GitHub ve Bitbucket ile yerel olarak entegre olan Gitpod, tüm branch'leriniz için geliştirme ortamlarını otomatik ve sürekli olarak önceden oluşturur. Sonuç olarak, ekip üyeleri her yeni görev için yeni geliştirme ortamlarıyla anında kodlamaya başlayabilir - yeni bir özellik oluşturuyor olmanız, bir hatayı düzeltmek istemeniz veya bir kod incelemesi üzerinde çalışmanız fark etmez.</sup>
             </div>
         </a>
     </p>
