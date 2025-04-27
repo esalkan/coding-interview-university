@@ -14,7 +14,7 @@
 
 
 <details>
-<summary>Translations:</summary>
+<summary>Çeviriler:</summary>
 
 - [中文版本](translations/README-cn.md)
 - [Tiếng Việt - Vietnamca](translations/README-vi.md)
@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary>Translations in progress:</summary>
+<summary>Devam eden çeviriler:</summary>
 
 - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 - [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
